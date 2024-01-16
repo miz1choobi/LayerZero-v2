@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 8
+  version: 7
   cacheKey: 10
 
 "@axelar-network/axelar-gmp-sdk-solidity@npm:^5.6.3":
@@ -179,7 +179,7 @@ __metadata:
   linkType: hard
 
 "@chainsafe/ssz@npm:^0.10.0":
-  version: 0.10.2
+  version: 0.10.0
   resolution: "@chainsafe/ssz@npm:0.10.2"
   dependencies:
     "@chainsafe/as-sha256": "npm:^0.3.1"
